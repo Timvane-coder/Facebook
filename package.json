@@ -1,0 +1,21 @@
+{
+  "name": "Teebot",
+  "version": "1.0.0",
+  "description": "A FB Messenger Chatbot In Nodejs - Teebot provides some basic informations about Code To Create FB page & more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/TonyCletus/"
+  },
+  "author": "Tony Cletus <Anthonyomojocletus.@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "request": "^2.82.0"
+  },
+  "homepage": "https://secret-sea-83423.herokuapp.com"
+}
